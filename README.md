@@ -84,7 +84,11 @@
 </p>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pipaliya1712&show_icons=true&locale=en&layout=compact" alt="pipaliya1712" /></p>
+</div><h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipaliya1712&layout=compact&theme=dark" alt=Pipaliya1712 />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pipaliya1712&" alt="pipaliya1712" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pipaliya1712&theme=dark" alt="Pipaliya1712" /></p>
+
+
+
 

@@ -9,13 +9,9 @@
 
 <div align="left">
 
-- 🔭 I’m currently working on [P Shopping Point](https://p-shopping-point.onrender.com)
-
-- 🌱 I’m currently learning **ReactJS**
-
 - 📫 How to reach me **parthpipaliya1712@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1R-Uy95xy3WIGsOILXsNi5IIto9b-mZdQ/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1K63ibCif3qcGbp0x_m-o5jH26dAIlHp9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=777777&center=true&vCenter=true&lines=👨‍💻+Full-Stack+Web+Developer;🧩+Competitive+Programmer;🍃+Always+Learning+New+Things;" alt="Typing SVG">
 </p>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
-
 <div align="left">
 
 - 📫 How to reach me **parthpipaliya1712@gmail.com**
@@ -32,6 +30,12 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/NextJS-FF6C37?style=for-the-badge&logo=nextjs&logoColor=white" alt="nextjs" class="icon" />
+  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ReactJS-00599C?style=for-the-badge&logo=reactjs&logoColor=white" alt="resctjs" class="icon" />
+  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" class="icon" />
   </a>
